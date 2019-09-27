@@ -1,0 +1,48 @@
+﻿body
+{
+    background-color:black;
+    color:white;
+    
+}
+
+h3{ color:red;} #head{text-align:center; margin:5%;} a{ margin-right:2%;}
+
+#mid {
+    
+    overflow: hidden;
+    height:20%;   
+    
+}
+
+img{
+    height:20%;
+    width:20%;
+    
+    
+}
+#top {
+    float: top;
+    overflow: hidden;
+}
+
+
+#nav{
+    float:right;
+    font-size:20px;
+    height:80%;
+    width:60%;
+}
+
+form{
+    
+    float:right;
+    
+    height:100%;
+    width:50%;
+}
+
+input,label{
+   font-size:20px;
+
+    
+}
